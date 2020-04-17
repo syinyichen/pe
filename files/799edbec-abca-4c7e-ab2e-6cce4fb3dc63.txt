@@ -1,0 +1,76 @@
+
+help
+find-c ber
+list
+list -c
+list-c
+list-c c
+list-c csdif
+list-c bernice
+list-c alskjd
+find-c ale
+find-x alex
+find-c alex
+find-c alex bernice
+add-c n/Amanda Low p/95436543 e/AmandaLow@dmail.com a/West Coast Grove 69s/Swimmer t/Vegetarian�
+add-c n/Amanda Low p/95436543 e/AmandaLow@dmail.com a/West Coast Grove 69s/Swimmer t/Vegetarian
+add-c n/Ama
+add-c n/Amanda Low p/95436543 e/AmandaLow@dmail.com 
+add-c n/Amanda Low p/95436543 e/AmandaLow@dmail.com a/West Coast Grove
+add-c n/Amanda Low p/954365s e/AmandaLow@dmail.com a/West Coast Grove
+add-c n/Amanda Low p/95436543 e/AmandaLow@dmail.com a/West Coast Grove h/12
+add-c n/Amanda Low p/95436541 e/AmandaLow@tmail.com a/West Coast Grove h/1000000
+add-c n/Amanda Low p/95436541 e/AmandaLow@tmail.com a/West Coast Grove h/100.002
+add-c n/Amanda Low p/95436541 e/AmandaLow@tmail.com a/West Coast Grove h/0
+add-c n/Amanda Low p/95436543 e/AmandaLow@dmail.com a/West Coast Grove 69 h/0
+add-c n/Amanda Low p/95431543 e/AandaLow@dmail.com a/West Coast Grove 69 h/0
+add-c n/Amanda Low p/95432543 e/AmandLow@dmail.com a/West Coast Grove 69 h/-1
+add-c n/Amanda Low p/95432543 e/AmandLow@dmail.com a/West Coast Grove 69 p/9128930
+add-c n/Amanda Low p/9543143 e/AmandLow@dmail.com a/West Coast Grove 69 p/9128920
+add-c n/Amanda Low p/9542343 e/AmandaLow@dmil.com a/West Coast Grove 69 p/987234
+edit-c 0 e/aodsifu@laksdjf.com
+edit-c 999999999999999999999999999999999 e/aodsifu@laksdjf.com
+edit-c 11 e/aodsifu@laksdjf.com
+edit-c 0 e/aodsifu@laksdjf.com
+edit-c 7 p/8765532
+edit-c p/92734
+edit-c 1 p/92734 p/1293
+edit-c 2 p/1293
+edit-c 3 p/1293
+delete-c 0
+delete-c 99
+delete-c 999999999999999
+delete-c 99
+delete-c 9999999999
+view-c 1
+view-c 0
+view-c 100
+edit-e 2 reps/8 ew/50
+edit-e 1 reps/8 ew/50
+edit-e 1 reps/-1 ew/50
+edit-e 1 reps/0.1 ew/50
+edit-e 1 d/01
+edit-e 1 d/01-01-1000
+edit-e 1 d/01-02-2020
+edit-e 1 d/01-08-2020
+edit-e 2 n/Bench Press d/12-02-2020 reps/4 ew/100 sets/2
+edit-e 5 n/Bench Press d/12-02-2020 reps/4 ew/100 sets/2
+edit-e 5 n/Bench Press d/12-04-2020 reps/4 ew/100 sets/2
+delete-e 7
+schedule 2sch/TUESDAY-800-1:00
+schedule 2 sch/TUESDAY-800-1:00
+schedule 1 sch/
+schedule 1 sch/TUE 
+schedule 1 sch/TUE-1100-1200
+schedule 1 sch/MON-1100-1200
+schedule 1 sch/MON-1100-1300
+export
+graph n/Sumo Deadlift a/weight sd/01-01-2020ed/13-04-2020
+graph n/Sumo Deadlift a/weight sd/01-01-2020 ed/13-04-2020
+graph n/Bench Press a/weight sd/01-01-2020 ed/13-04-2020
+graph n/bench press a/weight sd/01-01-2020 ed/13-04-2020
+graph n/Bench Press a/WEIGHT sd/01-01-2020 ed/13-04-2020
+exit
+list-c
+add-c n/Amanda Low p/95436543 e/AmandaLow@dmail.com a/West Coast Grove 69s/Swimmer t/Vegetarian
+exit
